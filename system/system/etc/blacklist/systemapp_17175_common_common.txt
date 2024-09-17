@@ -1,0 +1,4 @@
+com.sohu.inputmethod.sogouoem
+com.iflytek.inputmethod.oppo
+com.coloros.focusmode
+com.mobiletools.systemhelper

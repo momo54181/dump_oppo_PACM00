@@ -1,0 +1,68 @@
+# build porp start
+ro.separate.soft=17197
+ro.rom.featrue=allnet
+ro.product.authentication=2018CP0915
+ro.product.hw=DB091
+ro.oppo.market.name=OPPO R15
+ro.vendor.product.device.oem=PACM00
+ro.sys.reserve.integrate=false
+ro.build.product=PACM00
+ro.vendor.product.oem=PACM00
+ro.product.sar=1.7
+ro.oppo.mtk_gps_mpe=1
+
+# InitEnv
+
+# Build.java
+ro.build.id=QP1A.190711.020
+ro.build.display.id=PACM00_11_F.27
+ro.product.manufacturer=OPPO
+ro.product.brand=OPPO
+ro.product.model=PACM00
+ro.product.name=PACM00
+ro.product.device=PACM00
+ro.build.version.incremental=2021050100
+ro.build.version.release=10
+ro.build.version.base_os=OPPO/PACM00/PACM00:10/QP1A.190711.020/1608710200:user/release-keys
+ro.build.fingerprint=OPPO/PACM00/PACM00:10/QP1A.190711.020/2021050100:user/release-keys
+ro.odm.build.fingerprint=OPPO/PACM00/PACM00:10/QP1A.190711.020/2021050100:user/release-keys
+ro.odm.build.version.incremental=2021050100
+ro.product.odm.brand=OPPO
+ro.product.odm.device=PACM00
+ro.product.odm.manufacturer=OPPO
+ro.product.odm.model=PACM00
+ro.product.odm.name=PACM00
+ro.system.build.fingerprint=OPPO/PACM00/PACM00:10/QP1A.190711.020/2021050100:user/release-keys
+ro.system.build.version.incremental=2021050100
+ro.product.system.brand=OPPO
+ro.product.system.device=PACM00
+ro.product.system.manufacturer=OPPO
+ro.product.system.model=PACM00
+ro.product.system.name=PACM00
+ro.bootimage.build.fingerprint=OPPO/PACM00/PACM00:10/QP1A.190711.020/2021050100:user/release-keys
+ro.bootimage.build.version.incremental=2021050100
+ro.product.bootimage.brand=OPPO
+ro.product.bootimage.device=PACM00
+ro.product.bootimage.manufacturer=OPPO
+ro.product.bootimage.model=PACM00
+ro.product.bootimage.name=PACM00
+ro.vendor.build.fingerprint=OPPO/PACM00/PACM00:10/QP1A.190711.020/2021050100:user/release-keys
+ro.vendor.build.version.incremental=2021050100
+ro.product.vendor.brand=OPPO
+ro.product.vendor.device=PACM00
+ro.product.vendor.manufacturer=OPPO
+ro.product.vendor.model=PACM00
+ro.product.vendor.name=PACM00
+
+# GMS
+ro.com.google.clientidbase=android-oppo
+
+# Mediatek
+ro.mediatek.version.release=PACM00_11_F.27_210425
+ro.vendor.mediatek.version.release=PACM00_11_F.27_210425
+ro.camera.hfr.enable=1
+ro.camera.videoeis.enable=1
+ro.camera.temperature.limit=435
+ro.camera.portrait.blur.level.enable=1
+ro.camera.fullsize.reduce.resolution.enable=1
+ro.display.aal.special_init_config=1

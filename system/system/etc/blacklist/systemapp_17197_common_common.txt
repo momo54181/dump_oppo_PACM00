@@ -1,0 +1,3 @@
+com.baidu.input_oppo
+com.iflytek.inputmethod.oppo
+com.coloros.focusmode

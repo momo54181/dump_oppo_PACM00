@@ -1,0 +1,39 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <!-- Fangfang.Hui@PSW.AD.Ota.1058552, 2016/12/08, Add for only support encrypted package to update -->
+    <feature name="oppo.package.encrypt.support.only" />
+    <!-- Xiaori.Yuan@MultiMedia.Display.Feature, 2017/07/04, Add this for protect eyes -->
+    <feature name="oppo.eyeprotect.support" />
+    <!-- Haiping.Zhong@PSW.AD.BuildConfig.1058552, 2017/08/07, Add for CommonSoft sensor feature step and gyroscope -->
+    <feature name="android.hardware.sensor.stepcounter" />
+    <feature name="android.hardware.sensor.stepdetector" />
+    <!-- Jialin.Pi@Apps.Settings 2017/09/07, feature only not use in 17071 and 17371 in MTK6767 -->
+    <!--<feature name="oppo.breath.light.support" />-->
+    <!-- Changwei.Li@ROM.SDK, 2017/10/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+    <feature name="com.oppo.feature.screen.heteromorphism" />
+    <!-- Lan.Wang@plf.Framework, 2017/07/12, Add multi app feature -->
+    <feature name="oppo.multiapp.support" />
+    <!-- Fangfang.Hui@PSW.AD.FaceRecognition.1070880, 2017/10/28, Add for Face recognition support -->
+    <feature name="oppo.hardware.face.support" />
+    <!-- MingQiang.GUO@EXP.TP.Funtion, 2017/01/13, Add for blackgesture -->
+    <feature name="oppo.lcd.first.tp.last.support"/>
+    <feature name="oppo.launcher.download.progress.support" />
+    <!-- ZhiYong@Plf.Framework, 2018/01/31, add for oppo freeform mode -->
+    <feature name="oppo.freeform.support" />
+	<!-- Yuan.Huang@PSW.CN.WiFi.Network.internet.1197891, 2018/08/24, Add for SLA feature -->
+    <feature name="oppo.wlan.sla.support" />
+    <!-- Yuan.Huang@PSW.CN.WiFi.Basic.SoftAp.1181662, 2018/10/22, Add for AP_STA concurrency feature -->
+    <feature name="oppo.ap.sta.concurrency.support" />
+    <!-- jizhengkang@ROM.Plf, 2018/06/06, add support new oppo name-->
+    <feature name="oppo.system.use_new_oppo_name" />
+    <!-- Likuan.Ren@AD.BuildConfig.00, 2018/12/07, add for cn gms -->
+    <feature name="cn.google.services" />
+    <feature name="com.google.android.feature.services_updater" />
+    <!-- Xiao.Li@PSW.CN.WiFi.Network.1471780, 2018/08/11, add for traffic limit -->
+    <feature name="oppo.traffic.limit.support" />
+    <!-- Wenkan.Zhu@PSW.CN.WiFi.Network.internet.1800709, 2019/01/24, Add for private feature -->
+    <feature name="oppo.wlan.privateDns.support" />
+    <!-- Yalong.Wang@Apps.SpeechAssist 2019/07/19, feature used for disable incoming call voice control -->
+    <feature name="oppo.incomingcall.voicecontrol.shield" />
+</permissions>
